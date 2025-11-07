@@ -1,3 +1,5 @@
+https://public.tableau.com/app/profile/aleksandr.yuniou/viz/Project_Yuniov/Main?publish=yes
+
 Analyse von Flugbewegungen (Alle Fluggesellschaften)
 
 Ziel der Analyse ist es, verschiedene Flughäfen und Fluggesellschaften miteinander zu vergleichen, Außenseiter mit einer hohen Anzahl an Flugausfällen und -verspätungen zu identifizieren sowie Muster und Ursachen zu erkennen. Beispiele für analysierbare Zusammenhänge sind etwa ungewöhnlich lange Taxi-Zeiten an bestimmten Flughäfen, die regelmäßig zu Verzögerungen führen. Eine mögliche Handlungsempfehlung könnte dabei sein, diese Zeit bereits im Flugplan zu berücksichtigen.
