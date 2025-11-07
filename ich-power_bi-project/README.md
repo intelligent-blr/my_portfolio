@@ -3,8 +3,7 @@ Dieses Projekt demonstriert sowohl technische Fähigkeiten in Power BI als auch 
 Sales & Logistics Dashboard Projekt
 Projektbeschreibung
 
-Dieses Projekt konzentriert sich auf Vertrieb und Logistik.
-Sie agieren als Data Analyst, der Datensätze und ein technisches Pflichtenheft erhalten hat, um Dashboards in Power BI zu erstellen.
+Dieses Projekt konzentriert sich auf Vertrieb und Logistik. Ich arbeite als Data Analyst und habe Datensätze sowie ein technisches Pflichtenheft erhalten, um Dashboards in Power BI zu erstellen.
 
 Projektziel:
 Das Projekt soll folgende Kompetenzen demonstrieren:
