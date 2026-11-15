@@ -5,7 +5,7 @@ Interaktives Power-BI-Dashboard auf Basis des Olist-E-Commerce-Datensatzes (Best
 ![Dashboard Vertrieb](./Bildschirm_1.jpg)
 ![Dashboard Logistik](./Bildschirm_2.jpg)
 ![Dashboard Zahlungen](./Bildschirm_3.jpg)
-![Dashboard Bewertungen](./Bildschirm_3.jpg)
+![Dashboard Bewertungen](./Bildschirm_4.jpg)
 
 ## Wichtigste Erkenntnisse
 - [z. B. Umsatzentwicklung und Vorjahresvergleich mit Zahl]
