@@ -8,11 +8,6 @@ Dashboard zum Vergleich von Flughäfen und Fluggesellschaften mit Fokus auf Vers
 ![Dashboard](./Bildschirm_2.jpg)
 ![Dashboard](./Bildschirm_3.jpg)
 
-## Wichtigste Erkenntnisse
-- [z. B. Fluggesellschaft mit höchster Verspätungsquote]
-- [z. B. Flughafen mit auffälligen Taxi-Zeiten]
-- **Empfehlung:** [z. B. Taxi-Zeit im Flugplan berücksichtigen]
-
 ## Was ich umgesetzt habe
 - Datenmodell durch physische Joins
 - KPI-Kennzahlen, Anteil verspäteter und annullierter Flüge
@@ -21,4 +16,4 @@ Dashboard zum Vergleich von Flughäfen und Fluggesellschaften mit Fokus auf Vers
 - Dashboard-Layout nach Gestaltungsprinzipien
 
 ## Technologien
-Tableau (Public)
+Tableau
