@@ -1,20 +1,24 @@
-https://public.tableau.com/app/profile/aleksandr.yuniou/viz/Project_Yuniov/Main?publish=yes
+# Analyse von Flugbewegungen (Tableau)
 
-Analyse von Flugbewegungen (Alle Fluggesellschaften)
+Dashboard zum Vergleich von Flughäfen und Fluggesellschaften mit Fokus auf Verspätungen und Annullierungen.
 
-Ziel der Analyse ist es, verschiedene Flughäfen und Fluggesellschaften miteinander zu vergleichen, Außenseiter mit einer hohen Anzahl an Flugausfällen und -verspätungen zu identifizieren sowie Muster und Ursachen zu erkennen. Beispiele für analysierbare Zusammenhänge sind etwa ungewöhnlich lange Taxi-Zeiten an bestimmten Flughäfen, die regelmäßig zu Verzögerungen führen. Eine mögliche Handlungsempfehlung könnte dabei sein, diese Zeit bereits im Flugplan zu berücksichtigen.
+**Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/aleksandr.yuniou/viz/Project_Yuniov/Main)
 
-Pflichtbestandteile:
-- Aufbau eines Datenmodells durch physische Joins zwischen den Tabellen.
-- Darstellung ausgewählter Kennzahlen als KPI-Metriken.
-- Visualisierung des Anteils annullierter oder verspäteter Flüge am Gesamtvolumen (z. B. nach Abflug- oder Ankunftsflughafen oder nach Fluggesellschaft).
-- Darstellung ausgewählter Daten in einer Zeitreihenvisualisierung (Timeline).
-- Verwendung von Parametern zur Steuerung der angezeigten Daten oder Visualisierungen.
-- Mindestens eine Visualisierung mit einer Dual-Axis-Darstellung.
-- Verwendung unterschiedlicher Filtertypen (Datumsfilter, Mess- und Dimensionsfilter).
-- Interaktive Funktionen im Dashboard (Actions, Tooltips, Parameter-/Set-Actions).
-- Dashboard-Layout nach gängigen Visualisierungs- und Gestaltungsprinzipien (z. B. Gestalt-Gesetze, Farb- und Abstandsregeln, Containerstruktur).
-- Veröffentlichung des Dashboards auf Tableau Public und Bereitstellung des Links sowie einer heruntergeladenen Version (.twb oder .twbx).
+![Dashboard](./Bildschirm_1.jpg)
+![Dashboard](./Bildschirm_2.jpg)
+![Dashboard](./Bildschirm_3.jpg)
 
-Optional: Erweiterte Analyse
-- Zusätzliche Visualisierungen, tiefere Analysen oder eigenständige Erkenntnisse.
+## Wichtigste Erkenntnisse
+- [z. B. Fluggesellschaft mit höchster Verspätungsquote]
+- [z. B. Flughafen mit auffälligen Taxi-Zeiten]
+- **Empfehlung:** [z. B. Taxi-Zeit im Flugplan berücksichtigen]
+
+## Was ich umgesetzt habe
+- Datenmodell durch physische Joins
+- KPI-Kennzahlen, Anteil verspäteter und annullierter Flüge
+- Zeitreihe, Dual-Axis-Diagramm
+- Parameter, Filter (Datum, Messwert, Dimension), Actions und Tooltips
+- Dashboard-Layout nach Gestaltungsprinzipien
+
+## Technologien
+Tableau (Public)
