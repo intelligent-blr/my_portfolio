@@ -2,9 +2,10 @@
 
 Interaktives Power-BI-Dashboard auf Basis des Olist-E-Commerce-Datensatzes (Bestellungen, Produkte, Zahlungen, Bewertungen, Lieferungen).
 
-![Dashboard Vertrieb 1](./ich-power_bi-project/Bildschirm_1.jpg)
-![Dashboard Vertrieb 2](./ich-power_bi-project/Bildschirm_2.jpg)
-![Dashboard Vertrieb 3](./ich-power_bi-project/Bildschirm_3.jpg)
+![Dashboard Vertrieb](./my_portfolio/ich-power_bi-project/Bildschirm_1.jpg)
+![Dashboard Logistik](./my_portfolio/ich-power_bi-project/Bildschirm_2.jpg)
+![Dashboard Zahlungen](./my_portfolio/ich-power_bi-project/Bildschirm_3.jpg)
+![Dashboard Bewertungen](./my_portfolio/ich-power_bi-project/Bildschirm_3.jpg)
 
 ## Wichtigste Erkenntnisse
 - [z. B. Umsatzentwicklung und Vorjahresvergleich mit Zahl]
