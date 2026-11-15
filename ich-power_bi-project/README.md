@@ -7,11 +7,6 @@ Interaktives Power-BI-Dashboard auf Basis des Olist-E-Commerce-Datensatzes (Best
 ![Dashboard Zahlungen](./Bildschirm_3.jpg)
 ![Dashboard Bewertungen](./Bildschirm_4.jpg)
 
-## Wichtigste Erkenntnisse
-- [z. B. Umsatzentwicklung und Vorjahresvergleich mit Zahl]
-- [z. B. Regionen mit höchstem Umsatz oder längster Lieferzeit]
-- [z. B. Conversion Rate im Sales Funnel und größter Abbruch]
-
 ## Was ich umgesetzt habe
 - **Datenaufbereitung:** Power Query, Denormalisierung der Bestelltabelle für den Sales Funnel
 - **Datenmodell:** Tabellenbeziehungen, berechnete Spalte für Produktkategorien
