@@ -42,7 +42,7 @@ Product Analytics:
 
 Ergebnisse:
 - Bereinigter Datensatz
-- mfangreicher Analysebericht mit Visualisierungen, Erkenntnissen und Empfehlungen
+- Amfangreicher Analysebericht mit Visualisierungen, Erkenntnissen und Empfehlungen
 - Interaktives Dashboard zur Exploration der Ergebnisse
 - Präsentation der wichtigsten Schlussfolgerungen
 
