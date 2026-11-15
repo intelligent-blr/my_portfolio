@@ -11,7 +11,7 @@ Abschlussprojekt der Weiterbildung (ITCareerHub). Analyse von CRM-Daten einer On
 6. **Product Analytics:** Unit Economics je Produkt, Metriken-Baum, Hypothesen (Tests max. 2 Wochen)
 
 ## Ergebnisse
-- Präsentation: (./Online Programming School Analytics.pdf/)
+- [Präsentation: Online Programming School Analytics](./Online%20Programming%20School%20Analytics.pdf)
 
 ## Technologien
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook, Power BI
